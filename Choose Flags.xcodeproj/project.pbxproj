@@ -272,7 +272,7 @@
 				DEVELOPMENT_TEAM = R98B5VBPR2;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Choose Flags/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -280,7 +280,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "ua.com.all4drive.Choose-Flags";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -294,7 +294,7 @@
 				DEVELOPMENT_TEAM = R98B5VBPR2;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Choose Flags/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -302,7 +302,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "ua.com.all4drive.Choose-Flags";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
